@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\bin\Debug\netcoreapp3.1\032020 Pirates.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\bin\Debug\netcoreapp3.1\032020 Pirates.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\bin\Debug\netcoreapp3.1\032020 Pirates.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\bin\Debug\netcoreapp3.1\032020 Pirates.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\bin\Debug\netcoreapp3.1\032020 Pirates.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\bin\Debug\netcoreapp3.1\032020 Pirates.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\obj\Debug\netcoreapp3.1\032020 Pirates.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\obj\Debug\netcoreapp3.1\032020 Pirates.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\obj\Debug\netcoreapp3.1\032020 Pirates.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\obj\Debug\netcoreapp3.1\032020 Pirates.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 Pirates\obj\Debug\netcoreapp3.1\032020 Pirates.pdb

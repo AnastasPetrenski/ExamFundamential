@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\bin\Debug\netcoreapp3.1\032020 EmojiDetector.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\bin\Debug\netcoreapp3.1\032020 EmojiDetector.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\bin\Debug\netcoreapp3.1\032020 EmojiDetector.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\bin\Debug\netcoreapp3.1\032020 EmojiDetector.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\bin\Debug\netcoreapp3.1\032020 EmojiDetector.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\bin\Debug\netcoreapp3.1\032020 EmojiDetector.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\obj\Debug\netcoreapp3.1\032020 EmojiDetector.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\obj\Debug\netcoreapp3.1\032020 EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\obj\Debug\netcoreapp3.1\032020 EmojiDetector.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\obj\Debug\netcoreapp3.1\032020 EmojiDetector.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 EmojiDetector\obj\Debug\netcoreapp3.1\032020 EmojiDetector.pdb

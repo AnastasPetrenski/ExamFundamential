@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\052020 HeroesOfCodeAndLogicVII.pdb

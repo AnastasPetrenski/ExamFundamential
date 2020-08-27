@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\bin\Debug\netcoreapp3.1\082019 Followers.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\obj\Debug\netcoreapp3.1\082019 Followers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\obj\Debug\netcoreapp3.1\082019 Followers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\bin\Debug\netcoreapp3.1\082019 Followers.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\bin\Debug\netcoreapp3.1\082019 Followers.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\bin\Debug\netcoreapp3.1\082019 Followers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\bin\Debug\netcoreapp3.1\082019 Followers.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\bin\Debug\netcoreapp3.1\082019 Followers.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\obj\Debug\netcoreapp3.1\082019 Followers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\obj\Debug\netcoreapp3.1\082019 Followers.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\082019 Followers\obj\Debug\netcoreapp3.1\082019 Followers.pdb

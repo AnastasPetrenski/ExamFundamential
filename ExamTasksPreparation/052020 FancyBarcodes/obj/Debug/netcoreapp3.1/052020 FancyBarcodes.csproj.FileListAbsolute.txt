@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\bin\Debug\netcoreapp3.1\052020 FancyBarcodes.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\bin\Debug\netcoreapp3.1\052020 FancyBarcodes.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\bin\Debug\netcoreapp3.1\052020 FancyBarcodes.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\bin\Debug\netcoreapp3.1\052020 FancyBarcodes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\bin\Debug\netcoreapp3.1\052020 FancyBarcodes.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\bin\Debug\netcoreapp3.1\052020 FancyBarcodes.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\obj\Debug\netcoreapp3.1\052020 FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\obj\Debug\netcoreapp3.1\052020 FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\obj\Debug\netcoreapp3.1\052020 FancyBarcodes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\obj\Debug\netcoreapp3.1\052020 FancyBarcodes.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\052020 FancyBarcodes\obj\Debug\netcoreapp3.1\052020 FancyBarcodes.pdb

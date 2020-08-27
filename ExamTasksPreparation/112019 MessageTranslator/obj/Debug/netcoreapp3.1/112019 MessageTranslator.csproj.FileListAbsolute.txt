@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\bin\Debug\netcoreapp3.1\112019 MessageTranslator.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\bin\Debug\netcoreapp3.1\112019 MessageTranslator.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\bin\Debug\netcoreapp3.1\112019 MessageTranslator.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\bin\Debug\netcoreapp3.1\112019 MessageTranslator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\bin\Debug\netcoreapp3.1\112019 MessageTranslator.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\bin\Debug\netcoreapp3.1\112019 MessageTranslator.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\obj\Debug\netcoreapp3.1\112019 MessageTranslator.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\obj\Debug\netcoreapp3.1\112019 MessageTranslator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\obj\Debug\netcoreapp3.1\112019 MessageTranslator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\obj\Debug\netcoreapp3.1\112019 MessageTranslator.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 MessageTranslator\obj\Debug\netcoreapp3.1\112019 MessageTranslator.pdb

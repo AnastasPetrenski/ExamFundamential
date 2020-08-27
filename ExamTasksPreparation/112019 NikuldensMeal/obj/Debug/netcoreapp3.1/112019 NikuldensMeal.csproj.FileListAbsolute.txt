@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\bin\Debug\netcoreapp3.1\112019 NikuldensMeal.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\bin\Debug\netcoreapp3.1\112019 NikuldensMeal.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\bin\Debug\netcoreapp3.1\112019 NikuldensMeal.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\bin\Debug\netcoreapp3.1\112019 NikuldensMeal.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\bin\Debug\netcoreapp3.1\112019 NikuldensMeal.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\bin\Debug\netcoreapp3.1\112019 NikuldensMeal.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\obj\Debug\netcoreapp3.1\112019 NikuldensMeal.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\obj\Debug\netcoreapp3.1\112019 NikuldensMeal.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\obj\Debug\netcoreapp3.1\112019 NikuldensMeal.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\obj\Debug\netcoreapp3.1\112019 NikuldensMeal.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensMeal\obj\Debug\netcoreapp3.1\112019 NikuldensMeal.pdb

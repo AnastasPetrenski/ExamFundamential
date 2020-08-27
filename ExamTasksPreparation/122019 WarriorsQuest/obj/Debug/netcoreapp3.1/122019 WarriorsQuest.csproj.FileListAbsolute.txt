@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\bin\Debug\netcoreapp3.1\122019 WarriorsQuest.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\bin\Debug\netcoreapp3.1\122019 WarriorsQuest.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\bin\Debug\netcoreapp3.1\122019 WarriorsQuest.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\bin\Debug\netcoreapp3.1\122019 WarriorsQuest.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\bin\Debug\netcoreapp3.1\122019 WarriorsQuest.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\bin\Debug\netcoreapp3.1\122019 WarriorsQuest.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\obj\Debug\netcoreapp3.1\122019 WarriorsQuest.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\obj\Debug\netcoreapp3.1\122019 WarriorsQuest.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\obj\Debug\netcoreapp3.1\122019 WarriorsQuest.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\obj\Debug\netcoreapp3.1\122019 WarriorsQuest.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 WarriorsQuest\obj\Debug\netcoreapp3.1\122019 WarriorsQuest.pdb

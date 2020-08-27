@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\bin\Debug\netcoreapp3.1\122019 HeroRecruitment.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\bin\Debug\netcoreapp3.1\122019 HeroRecruitment.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\bin\Debug\netcoreapp3.1\122019 HeroRecruitment.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\bin\Debug\netcoreapp3.1\122019 HeroRecruitment.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\bin\Debug\netcoreapp3.1\122019 HeroRecruitment.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\bin\Debug\netcoreapp3.1\122019 HeroRecruitment.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\obj\Debug\netcoreapp3.1\122019 HeroRecruitment.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\obj\Debug\netcoreapp3.1\122019 HeroRecruitment.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\obj\Debug\netcoreapp3.1\122019 HeroRecruitment.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\obj\Debug\netcoreapp3.1\122019 HeroRecruitment.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\122019 HeroRecruitment\obj\Debug\netcoreapp3.1\122019 HeroRecruitment.pdb

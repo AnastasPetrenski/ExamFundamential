@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\bin\Debug\netcoreapp3.1\042020 MirrorWords.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\bin\Debug\netcoreapp3.1\042020 MirrorWords.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\bin\Debug\netcoreapp3.1\042020 MirrorWords.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\bin\Debug\netcoreapp3.1\042020 MirrorWords.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\bin\Debug\netcoreapp3.1\042020 MirrorWords.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\bin\Debug\netcoreapp3.1\042020 MirrorWords.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\obj\Debug\netcoreapp3.1\042020 MirrorWords.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\obj\Debug\netcoreapp3.1\042020 MirrorWords.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\obj\Debug\netcoreapp3.1\042020 MirrorWords.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\obj\Debug\netcoreapp3.1\042020 MirrorWords.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\042020 MirrorWords\obj\Debug\netcoreapp3.1\042020 MirrorWords.pdb

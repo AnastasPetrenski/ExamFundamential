@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\bin\Debug\netcoreapp3.1\112019 NikuldensCherity.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\bin\Debug\netcoreapp3.1\112019 NikuldensCherity.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\bin\Debug\netcoreapp3.1\112019 NikuldensCherity.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\bin\Debug\netcoreapp3.1\112019 NikuldensCherity.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\bin\Debug\netcoreapp3.1\112019 NikuldensCherity.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\bin\Debug\netcoreapp3.1\112019 NikuldensCherity.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\obj\Debug\netcoreapp3.1\112019 NikuldensCherity.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\obj\Debug\netcoreapp3.1\112019 NikuldensCherity.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\obj\Debug\netcoreapp3.1\112019 NikuldensCherity.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\obj\Debug\netcoreapp3.1\112019 NikuldensCherity.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\112019 NikuldensCherity\obj\Debug\netcoreapp3.1\112019 NikuldensCherity.pdb

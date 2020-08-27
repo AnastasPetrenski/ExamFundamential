@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\bin\Debug\netcoreapp3.1\102019 EmailValidator.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\bin\Debug\netcoreapp3.1\102019 EmailValidator.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\bin\Debug\netcoreapp3.1\102019 EmailValidator.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\bin\Debug\netcoreapp3.1\102019 EmailValidator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\bin\Debug\netcoreapp3.1\102019 EmailValidator.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\bin\Debug\netcoreapp3.1\102019 EmailValidator.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\obj\Debug\netcoreapp3.1\102019 EmailValidator.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\obj\Debug\netcoreapp3.1\102019 EmailValidator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\obj\Debug\netcoreapp3.1\102019 EmailValidator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\obj\Debug\netcoreapp3.1\102019 EmailValidator.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 EmailValidator\obj\Debug\netcoreapp3.1\102019 EmailValidator.pdb

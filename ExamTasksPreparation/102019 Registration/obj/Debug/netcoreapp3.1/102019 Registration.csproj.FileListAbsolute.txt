@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\bin\Debug\netcoreapp3.1\102019 Registration.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\bin\Debug\netcoreapp3.1\102019 Registration.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\bin\Debug\netcoreapp3.1\102019 Registration.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\bin\Debug\netcoreapp3.1\102019 Registration.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\bin\Debug\netcoreapp3.1\102019 Registration.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\bin\Debug\netcoreapp3.1\102019 Registration.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\obj\Debug\netcoreapp3.1\102019 Registration.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\obj\Debug\netcoreapp3.1\102019 Registration.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\obj\Debug\netcoreapp3.1\102019 Registration.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\obj\Debug\netcoreapp3.1\102019 Registration.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 Registration\obj\Debug\netcoreapp3.1\102019 Registration.pdb

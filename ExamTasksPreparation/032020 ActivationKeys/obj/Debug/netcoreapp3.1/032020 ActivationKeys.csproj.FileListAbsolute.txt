@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\bin\Debug\netcoreapp3.1\032020 ActivationKeys.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\bin\Debug\netcoreapp3.1\032020 ActivationKeys.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\bin\Debug\netcoreapp3.1\032020 ActivationKeys.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\bin\Debug\netcoreapp3.1\032020 ActivationKeys.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\bin\Debug\netcoreapp3.1\032020 ActivationKeys.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\bin\Debug\netcoreapp3.1\032020 ActivationKeys.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\obj\Debug\netcoreapp3.1\032020 ActivationKeys.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\obj\Debug\netcoreapp3.1\032020 ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\obj\Debug\netcoreapp3.1\032020 ActivationKeys.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\obj\Debug\netcoreapp3.1\032020 ActivationKeys.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\032020 ActivationKeys\obj\Debug\netcoreapp3.1\032020 ActivationKeys.pdb

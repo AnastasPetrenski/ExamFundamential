@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\bin\Debug\netcoreapp3.1\102019 InboxManager.exe
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\obj\Debug\netcoreapp3.1\102019 InboxManager.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\obj\Debug\netcoreapp3.1\102019 InboxManager.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\obj\Debug\netcoreapp3.1\102019 InboxManager.AssemblyInfo.cs
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\bin\Debug\netcoreapp3.1\102019 InboxManager.deps.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\bin\Debug\netcoreapp3.1\102019 InboxManager.runtimeconfig.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\bin\Debug\netcoreapp3.1\102019 InboxManager.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\bin\Debug\netcoreapp3.1\102019 InboxManager.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\bin\Debug\netcoreapp3.1\102019 InboxManager.pdb
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\obj\Debug\netcoreapp3.1\102019 InboxManager.dll
+C:\Users\anastas\source\repos\EXAM FUND 08.2020\102019 InboxManager\obj\Debug\netcoreapp3.1\102019 InboxManager.pdb
